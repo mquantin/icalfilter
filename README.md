@@ -1,5 +1,4 @@
-# fork
-this is a fork of (icalfilter)[https://github.com/klemensschindler/icalfilter] by klemensschindler 
+This is a fork of (icalfilter)[https://github.com/klemensschindler/icalfilter] by klemensschindler 
 
 # icalfilter
 Filter out old ical events from a calendar.
